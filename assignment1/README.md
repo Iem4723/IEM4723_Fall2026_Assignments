@@ -14,3 +14,4 @@ Image Tags:
 
 Screenshot of branch history/network graph:
 
+![Branch History](branch_history.png)
