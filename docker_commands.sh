@@ -12,3 +12,9 @@ cd assignment1/volume-mounting
 docker build -t volume-mounting-app .
 docker run --rm --volume "$(pwd)/data:/home/iem4723/data" volume-mounting-app:latest
 cd ../..
+
+# Question 3
+cd assignment1/layering
+docker build -t logistic_regression_layered:latest .
+docker run --rm --volume "$(pwd)/data:/home/iem4723/data" logistic_regression_layered:latest
+
