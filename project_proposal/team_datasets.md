@@ -24,3 +24,7 @@ Please add your team's details below by submitting a pull request or filling out
 ### Team Name: The Power Rangers
 - **Team Members:** Micah Bullard, Dayton McCall, Malte Kuhn
 - **Dataset:** [EIA Electric Power Data by Month and State](https://www.eia.gov/electricity/monthly/) — Appendix C
+
+**Team Name** — NP Analysts
+**Team Members** — Connor Rice, Laura Kokal
+**Dataset Used** — [NPS Visitor Use Statistics Data 2024](https://catalog.data.gov/dataset/nps-visitor-use-statistics-data-package-2024?from_hint=eyJxIjoibnBzIHZpc2l0b3IgdXNlIHN0YXRpc3RpY3MgZGF0YSJ9) AND [Visitor Spending Effects Data Package, 2024](https://catalog.data.gov/dataset/visitor-spending-effects-data-package-2024?from_hint=eyJxIjoidmlzaXRvciBzcGVuZGluZyBlZmZlY3RzIiwic29ydCI6InJlbGV2YW5jZSJ9)
